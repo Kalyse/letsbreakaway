@@ -71,6 +71,7 @@ h6 {
 .arrow {
     position: absolute;
     top: 90px;
+    z-index: 10;
 }
 
 .featured {
