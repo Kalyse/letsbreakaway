@@ -37,14 +37,57 @@ h6 {
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 10%;
+    padding-bottom: 140px;
+}
+
+.away {
+    color: #3072CF; 
 }
 
 .intro-message > h1 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
+   
+}
+
+.why-email-explained {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    border-left: 3px solid #eee;
+    margin-top: 15px;
+    clear: both;
+}
+.why-email-explained .fa {
+    float:left;
+    margin-right: 10px;
+    margin-bottom:70px;
+    color: rgb(102, 174, 91);
+}
+.relative {
+    position: relative;
+}
+.arrow {
+    position: absolute;
+    top: 90px;
+}
+
+.featured {
+    font-size: 1.3em;
+}
+.highlight{
+    color: rgb(236, 54, 130);
+text-shadow: 1px 1px 0 rgb(44, 38, 38);
+}
+
+.preface {
+    font-size: 1.3em;
+    font-weight: normal;
+}
+
+.content-section-b .highlight {
+    text-shadow: none;
 }
 
 .intro-divider {
