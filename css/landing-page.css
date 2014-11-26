@@ -31,8 +31,16 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/cover2.jpg) no-repeat center center;
     background-size: cover;
+}
+
+.intro-header .list-group {
+    color: #444;
+}
+
+.panel {
+    margin-top: 200px;
 }
 
 .intro-message {
@@ -41,6 +49,20 @@ h6 {
     padding-bottom: 140px;
 }
 
+.aims {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+.phising {
+    position: absolute;
+    bottom: -40px;
+    left: 110px;
+
+}
+.phish {
+    height: 500px;
+}
 .away {
     color: #3072CF; 
 }
