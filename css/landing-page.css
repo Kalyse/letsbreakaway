@@ -160,6 +160,16 @@ text-shadow: 1px 1px 0 rgb(44, 38, 38);
     font-size: 14px;
     font-weight: 400;
     letter-spacing: 2px;
+    white-space: initial;
+}
+.list-group-item-heading {
+    font-size: 1.3em;
+    line-height: 1.4em;
+}
+.list-group-item-text {
+    font-weight: normal;
+    font-size: 1.1em;
+    line-height: 1.6em;
 }
 
 .content-section-a {
